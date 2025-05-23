@@ -12,4 +12,8 @@ This program takes a number from the user and indicates whether the number is po
 
 This project checks if a person is eligible for a driving license
 
+# explanation for factorial.py
+
+This program takes a number from the user and calculates its factorial.
+
 
